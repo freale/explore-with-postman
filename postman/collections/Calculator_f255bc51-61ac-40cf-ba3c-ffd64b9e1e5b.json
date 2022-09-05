@@ -10,7 +10,7 @@
 			"name": "CalculatorSoap",
 			"item": [
 				{
-					"name": "Add",
+					"name": "Add Mod",
 					"id": "0d64a2e6-5ea1-4d19-b4ca-4429a7793d16",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
